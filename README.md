@@ -3,14 +3,16 @@
 ## 小组成员
 
 - 2021131141-王乐 （组长）
-- 2021xxxx-姓名
-- 2021xxxx-姓名
-- 2021xxxx-姓名
+- 2021131135-夏若茗
+- 2021131142-吴志帆
+- 2021131143-何玮俊
+- 2021131144-谢林希
+- 2021131163-向明达
 
 
 ## 代码仓库链接
 
-https://github.com/caosbad/blockchain-in-js-workshop-2021(示例用，请根据自身的仓库替换)
+https://github.com/WannaHoly/wanna
 
 
 
