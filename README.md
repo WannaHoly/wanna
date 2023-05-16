@@ -43,18 +43,39 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/2e5519d2
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+Block
+https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/7ecdd8aeb250b4a01fb57f06d13e5f7aecb44f06
+
+Blockchain
+https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/ac00366f9ae4fcc3d7532e7a7bb1c0ef68c320bc
+
+utils
+https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/bc75cf5252b14bc6b99f4c2e472a04c656319f90
 
 
 ### 代码截图
 
-> 将截图上传至网盘，放入链接即可
-
-![](链接)
+链接：https://pan.baidu.com/s/1ETw8a698D157e5sdZyZU-g 
+提取码：wzak
 
 
 ### 主观与讨论题内容
+Pow优缺点：
+Pow是一种快速部署Rails应用的工具
+优点:
+1．易于使用:Pow是一种易于使用的工具，只需几个命令就可以轻松部署和管理您的应用程序。
+2．快速开发:Pow使开发者能够快速开发和测试应用程序，从而使整个开发过程更高效。
+3．稳定性:Pow非常稳定，可以在任何操作系统上运行，并且在生产环境中也能够表现良好。
+4.完全自动化:Pow支持自动化部著和管理,使您的开发和运维更高效。
+缺点:
+1．可扩展性有限:Pow的扩展性有限，因为它只能部署Rails应用程序。如果您需要部署其他类型的应用程序，则可能需要使用其他工具。
+2．对占用端口号有要求:Pow要求使用者必须手动占用一个端口号，可能会对端口号的管理带来一定的复杂性。
+3．对开发环境的限制:Pow通常用于开发环境,但很难在生产环境中进行集成和部署。如果您的应用程序需要在生产环境中运行，则可能需要使用其他工具来进行部署和管理。
 
+如何提高挖矿效率？
+1.选择适当的挖矿设备
+2.定期更新和升级设备
+3.学习和应用算法
 
 
 ---
