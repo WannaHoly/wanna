@@ -1,6 +1,6 @@
 import sha256 from 'crypto-js/sha256.js'
 
-export const DIFFICULTY = 2
+export const DIFFICULTY = 3
 
 class Block {
 // 1. 完成构造函数及其参数
@@ -11,7 +11,7 @@ class Block {
     this.index = index
     this.hash = hash
     this.coinbaseBeneficiary = miner
-    this.utxoPool = blockChain.coninBaseTransaction(preHash,miner)
+    this.utxoPool = blockChain.coinBaseTransaction(preHash,miner)
   }
 
   isValid() {
