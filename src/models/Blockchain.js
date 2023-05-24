@@ -77,7 +77,7 @@ class Blockchain {
     }
   
     //根据coinBase交易更新UTXOPOOL的状态,即添加一个矿工的utxo
-    coninBaseTransaction(preHash,coinbaseBeneficiary){
+    coinBaseTransaction(preHash,coinbaseBeneficiary){
       //用父区块的utxoPool来更新  
       let Pool = this.getPreBlockUTXO(preHash)
    
