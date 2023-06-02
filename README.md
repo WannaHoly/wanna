@@ -137,8 +137,6 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/28272992
 UTXOPool:
 https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/a709a3b010aa28618dade6eae83cba7abe5c6ff0
 
-MerkelTree:
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/4cc4d11d061965316d04c5dfbc3e71313bfa9c17
 
 
 ### 代码截图
