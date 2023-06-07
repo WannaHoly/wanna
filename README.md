@@ -159,18 +159,35 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/a709a3b0
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+Block:
+https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/254102381c266e1964168db6589c88580d8f7de8
+
+Blockchain:
+https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/41656d012a449fa09ee9c6a9fc10890300b506cd
+
+Transaction:
+https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/f12983ad6cae9468bfcb859ebbe24a22b3b3b281
+
+UTXO:
+https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/cc9f787395956bc231d375e82d23b6a8a14457af
+
+UTXOPool:
+https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/bbb4e7e0fb02ab7052016cb7c10a9837a93eb94e
 
 
 ### 代码截图
 
-> 将截图上传至网盘，放入链接即可
-
-![](链接)
+链接：https://pan.baidu.com/s/1JIomfguJvcLZgY94iaY4oQ?pwd=wzak 
+提取码：wzak
 
 
 ### 主观与讨论题内容
 
+比特币交易的处理极限：
+比特币交易的处理极限取决于每个区块链网络的处理能力和规模。比特币网络目前的处理能力是每秒钟约7个交易，因此在极端情况下，比特币网络可能会受到交易堆积和延迟的影响。为了解决这个问题，已经有一些解决方案被提出，比如闪电网络和隔离见证。这些技术可以提高比特币的交易处理速度和性能，并使其更具可扩展性。
+
+比特币区块大小和比特币难度的关系：
+比特币区块大小和比特币挖矿难度是两个不同的概念，它们之间没有直接的关系。虽然这两个概念没有直接的关系，但是比特币区块大小的改变可能会对比特币挖矿难度产生影响。如果区块大小增加，交易处理速度也会增加，从而导致更多的交易被确认，可能会增加比特币的交易量和网络使用率。这可能会导致比特币挖矿难度的调整，以确保每次挖矿的时间间隔约为10分钟。
 
 
 ---
