@@ -200,19 +200,37 @@ https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/bbb4e7e0
 
 ### 代码 commint 地址
 
-https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/25f3a0d83a9fff2b4514c5503f470df939d0c2af
+Block：
+https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/c31c0a55ce4dd186c7d84431f2455ed5807c57ba
+
+Blockchain：
+https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/56c3b812f92df86c47e6c7fff2b6768853ba16fd
+
+Transaction：
+https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/c4ecc5592a685373ac153a5425dd148c48deef2b
+
+UTXO：
+https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/211179d7e9c00944e87d13f80d0ddf0cec2fc8f1
+
+UTXOPool：
+https://github.com/CUITBlockchain/blockchain-in-js-workshop-2021/commit/21966cdff12a7304f7931ebdf1e0b905a6fb62df
 
 
 ### 代码截图
 
-> 将截图上传至网盘，放入链接即可
-
-![](图片链接放这里)
+链接：https://pan.baidu.com/s/1JIomfguJvcLZgY94iaY4oQ?pwd=wzak 
+提取码：wzak
 
 
 ### 主观与讨论题内容
 
+讨论思考什么样的交易费⽤是合理的？
+合理的区块链交易费用应该是通过市场供求机制来确定的，既要满足交易参与者的需求，又要保持网络的可持续性和安全性。实际上，具体的交易费用可能因不同的区块链网络、交易所或钱包而有所不同。
 
+如果去掉交易费⽤⽐特币⽹络会发⽣什么？
+1. 恶意行为增加：交易费用是激励比特币矿工验证和打包交易的主要经济动力。如果交易费用被取消，矿工将只能通过区块奖励获取收入。这可能引发矿工的恶意行为。
+2. 交易排队和延迟
+3. 网络不稳定性：交易费用也有助于网络的稳定性。通过激励矿工参与比特币网络，交易费用确保有足够的计算资源来维护区块链的安全性和稳定性。如果交易费用被取消，矿工参与的动力和网络的安全性可能会受到损害。
 
 ---
 
